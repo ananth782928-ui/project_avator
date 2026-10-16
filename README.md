@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧬 RareTwin
+### AI-Powered Synthetic Rare Disease Patient Learning Platform
+## 🌟 About the Project
 
-## Getting Started
+**RareTwin** is an AI-powered educational platform that uses synthetic rare-disease patient avatars to make medical learning more interactive and engaging.
 
-First, run the development server:
+Students can explore diseases, study symptoms and medical histories, and communicate with virtual patient avatars. Doctors can manage disease information, review synthetic patient records, and monitor student assessments.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🎯 **Our mission:** Make rare-disease education more accessible through interactive, simulated patient experiences.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🧑‍⚕️ **Virtual Patient Avatars** — Explore fictional patient profiles and symptoms.
+- 🗣️ **Talk to an Avatar** — Ask questions and receive responses based on a synthetic patient profile.
+- 🧬 **Disease Library** — Learn about rare diseases and their clinical features.
+- 📅 **Disease Progression** — Explore how symptoms change over a simulated timeline.
+- 📝 **Case Assessments** — Practice identifying diseases through educational cases.
+- 📈 **Learning Progress** — Track completed cases and assessment performance.
+- 🩺 **Doctor Dashboard** — Manage diseases, patient records, and student assessments.
+- ✅ **Record Validation** — Review synthetic record completeness and consistency.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 👥 User Roles
 
-## Learn More
+| 🎓 Student | 🩺 Doctor |
+|---|---|
+| Explore diseases | Manage disease information |
+| Interact with virtual patients | Create synthetic patient cases |
+| Complete assessments | Review student performance |
+| Track learning progress | Validate synthetic records |
 
-To learn more about Next.js, take a look at the following resources:
+## 🔄 How It Works
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. 🔍 Explore a rare disease.
+2. 🧑‍⚕️ Open or generate a synthetic patient profile.
+3. 💬 Ask the virtual patient questions.
+4. 📅 Review symptoms and disease progression.
+5. 📝 Complete case assessments.
+6. 📊 Review learning results and feedback.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Technology
 
-## Deploy on Vercel
+The technology stack depends on the current implementation. The project may use:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- 🎨 Frontend: React, HTML, CSS, JavaScript, or TypeScript
+- ⚙️ Backend: FastAPI or Node.js
+- 🗄️ Database: PostgreSQL or MongoDB
+- 🤖 AI: Synthetic data generation and conversational AI
+- 📊 Visualization: Charts and patient timelines
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
+2. Open the project folder:
+   ```bash
+   cd YOUR_PROJECT_FOLDER
+   ```
+3. Install the dependencies according to your project's package manager.
+4. Start the development server using the command specified in your project configuration.
+
+## 🔐 Responsible Use
+
+- All patient avatars and records are intended to be synthetic.
+- The platform is designed for education and research demonstrations.
+- Synthetic cases must not be treated as real medical records or used for actual diagnosis.
+- Clinical information should be grounded in reliable references and validated appropriately.
+
+## 🎯 Project Vision
+
+RareTwin aims to transform rare-disease learning into an interactive experience where students can explore simulated patient journeys instead of relying only on traditional study materials.
+
+## 🤝 Contributing
+
+Suggestions, improvements, and contributions that support accessible and responsible rare-disease education are welcome.
+
+## 💙 Built for Innovation
+
+**RareTwin — Bringing rare-disease learning to life, one synthetic patient at a time.** 🧬
